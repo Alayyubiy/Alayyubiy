@@ -119,7 +119,7 @@ Tijorat.uz uchun frontend qismi.
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Tijorat_murojat.bot.uz](https://github.com/Alayyubiy/Tijorat_murojat.bot.uz)
+### 🤖 [Tijorat_murojat_bot.uz](https://github.com/Alayyubiy/Tijorat_murojat_bot.uz)
 B2B platformasi uchun rasmiy support bot — murojaat yuborish, tez-tez so'raladigan savollar, profilni ko'rish.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -138,7 +138,7 @@ B2B platformasi uchun rasmiy support bot — murojaat yuborish, tez-tez so'ralad
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alayyubiy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alayyubiy&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alayyubiy&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alayyubiy&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -152,8 +152,12 @@ B2B platformasi uchun rasmiy support bot — murojaat yuborish, tez-tez so'ralad
 
 ## 📬 Let's Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/al_ayyub1y)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayyubxonhaydarjonov@gmail.com)
+<div align="center">
+
+<a href="https://t.me/al_ayyub1y"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" /></a>
+<a href="mailto:ayyubxonhaydarjonov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
+
+</div>
 
 <div align="center">
 
