@@ -6,10 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;FastAPI+%7C+PostgreSQL;Always+learning+%F0%9F%9A%80;Building+Telegram+bots+%26+APIs)](https://git.io/typing-svg)
 
-![Location](https://img.shields.io/badge/📍-Uzbekistan-blue)
-![Available](https://img.shields.io/badge/Available-Yes-brightgreen)
-![Contact](https://img.shields.io/badge/Telegram-@al__ayyub1y-26A5E4?logo=telegram&logoColor=white)
-![Email](https://img.shields.io/badge/Email-ayyubxonhaydarjonov@gmail.com-D14836?logo=gmail&logoColor=white)
+<img src="https://img.shields.io/badge/📍_Location-Uzbekistan-1e293b?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Status-Available_for_work-22c55e?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Telegram-@al__ayyub1y-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
 
 </div>
 
@@ -39,18 +39,32 @@ I'm a backend-focused developer who builds reliable APIs, Telegram bots, and ful
 
 ## 🛠️ Tech Arsenal
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 **Backend & Core**
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis" />
+
+</td>
+<td valign="top" width="33%">
 
 **Bots & Automation**
 
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" /><br/>
+<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" />
+
+</td>
+<td valign="top" width="33%">
 
 **Tools & Platforms**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,56 +72,58 @@ I'm a backend-focused developer who builds reliable APIs, Telegram bots, and ful
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 PrimeHouse
+### 🏠 [PrimeHouse](https://github.com/Alayyubiy/PrimeHouse)
 Orzuyingizdagi uylar — uy-joy qidirish platformasi.
 
-`Python`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📚 Online_kurs
+### 📚 [Online_kurs](https://github.com/Alayyubiy/Online_kurs)
 Onlayn ta'lim platformasi.
 
-`Python`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Psixalogiya_bot
+### 🧠 [Psixalogiya_bot](https://github.com/Alayyubiy/Psixalogiya_bot)
 Psixologik maslahat olish uchun zamonaviy Telegram bot.
 
-`Python` `Telegram Bot`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 CompanyaTizmi
+### 🏢 [CompanyaTizmi](https://github.com/Alayyubiy/CompanyaTizmi)
 Bir tizim orqali har qanday ta'lim filiallarini boshqarish.
 
-`Python`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Tijorat_frontend.uz
+### 🌐 [Tijorat_frontend.uz](https://github.com/Alayyubiy/Tijorat_frontend.uz)
 Tijorat.uz uchun frontend qismi.
 
-`TypeScript`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Tijorat_murojat.bot.uz
+### 🤖 [Tijorat_murojat.bot.uz](https://github.com/Alayyubiy/Tijorat_murojat.bot.uz)
 B2B platformasi uchun rasmiy support bot — murojaat yuborish, tez-tez so'raladigan savollar, profilni ko'rish.
 
-`Python` `Telegram Bot`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 
 </td>
 </tr>
