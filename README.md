@@ -86,12 +86,12 @@ I'm a backend-focused developer who builds reliable APIs, Telegram bots, and ful
 
 **Production-grade backend • Double-entry ledger • ACID tranzaksiyalar • Race-condition himoyasi**
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
-[![FastAPI](https://img.shields.io/badge/FastAPI-async-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
-[![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
-[![Kafka](https://img.shields.io/badge/Kafka-event--driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
-[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Alayyubiy/novabank)
+[![FastAPI](https://img.shields.io/badge/FastAPI-async-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Alayyubiy/novabank)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Alayyubiy/novabank)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/Alayyubiy/novabank)
+[![Kafka](https://img.shields.io/badge/Kafka-event--driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/Alayyubiy/novabank)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Alayyubiy/novabank)
 
 [![Tests](https://img.shields.io/badge/tests-68%20passed-2ECC71?style=flat-square&logo=pytest&logoColor=white)]()
 [![Isolation](https://img.shields.io/badge/isolation-SERIALIZABLE-blue?style=flat-square)]()
@@ -118,7 +118,7 @@ I'm a backend-focused developer who builds reliable APIs, Telegram bots, and ful
 
 <div align="center">
 
-**[📂 Repositoryni ko'rish →](https://github.com/Alayyubiy/NovaBank)**
+**[📂 Repositoryni ko'rish →](https://github.com/Alayyubiy/novabank)**
 
 </div>
 
