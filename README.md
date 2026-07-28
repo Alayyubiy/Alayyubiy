@@ -70,6 +70,70 @@ I'm a backend-focused developer who builds reliable APIs, Telegram bots, and ful
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+### ⭐ FLAGSHIP PROJECT
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+# 🏦 NovaBank — Core Banking Platform
+
+**Production-grade backend • Double-entry ledger • ACID tranzaksiyalar • Race-condition himoyasi**
+
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+[![FastAPI](https://img.shields.io/badge/FastAPI-async-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+[![Kafka](https://img.shields.io/badge/Kafka-event--driven-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Alayyubiy/NovaBank)
+
+[![Tests](https://img.shields.io/badge/tests-68%20passed-2ECC71?style=flat-square&logo=pytest&logoColor=white)]()
+[![Isolation](https://img.shields.io/badge/isolation-SERIALIZABLE-blue?style=flat-square)]()
+[![Idempotent](https://img.shields.io/badge/API-Idempotency--Key-orange?style=flat-square)]()
+
+</div>
+
+> Ko'pchilik "banking backend" portfolio loyihalari CRUD + JWT'dan iborat.
+> NovaBank boshqacha savolga javob beradi: *"Ikki tranzaksiya bir vaqtda bitta
+> hisobni o'zgartirsa nima bo'ladi? Server tranzaksiya o'rtasida qulab tushsa
+> pul qayerga ketadi?"* — va bu savollarga **kod bilan, testlar bilan** javob
+> beradi, so'z bilan emas.
+
+**Nima ichida bor:**
+
+| | |
+|---|---|
+| 🔒 **Race-condition himoyasi** | `SELECT FOR UPDATE NOWAIT` + `SERIALIZABLE` isolation — ikki qatlamli |
+| 💰 **Double-entry ledger** | Har tranzaksiya kamida 2 yozuv, DB trigger bilan immutable |
+| 🔁 **Idempotency-Key** | Xavfsiz qayta urinish; konfliktda avtomatik `409` |
+| 📤 **Outbox pattern** | Kafka'ga kafolatli yetkazish, dual-write muammosisiz |
+| 🔐 **Refresh-token rotation** | Reuse-detection — o'g'irlangan token aniqlansa barcha sessiya bekor |
+| 🧪 **68 avtomatik test** | + real PostgreSQL'da concurrency testlari (Testcontainers) |
+
+<div align="center">
+
+**[📂 Repositoryni ko'rish →](https://github.com/Alayyubiy/NovaBank)**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+*Boshqa loyihalar ↓*
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
