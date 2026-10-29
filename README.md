@@ -218,7 +218,7 @@ B2B platformasi uchun rasmiy support bot — murojaat yuborish, tez-tez so'ralad
 
 <div align="center">
 
-<a href="https://t.me/al_ayyub1y"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" /></a>
+<a href="https://t.me/al_ayyubiy_developer"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f172a" /></a>
 <a href="mailto:ayyubxonhaydarjonov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" /></a>
 
 </div>
